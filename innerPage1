@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html lang="port-br">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title> Cappuccino </title>
+
+    
+
+</head>
+
+<body style="background-color: aquamarine; text-align: center">
+
+    
+
+    <div id="container"></div>
+
+        
+
+        <header class="top-page"><h1>Lyne's Coffee</h1></header>
+
+	<hr/>
+
+	<h2><strong>Cappuccino</strong></h2>
+
+	<p><img src="../IMG/cappucino.jfif" alt="Cappuccino" width="280px" height="auto"></p>
+
+	<hr/>
+
+        
+
+	<dl style="text-align: center">
+
+		<dt>Descrição</dt>
+
+		<dd>Uma mistura suave e delicada de café altamente selecionado, com cacau, um leve toque de leite e canela</dd>
+
+		<dd>Transformando seu sabor, textura aveludada e cremosidade sem igual!</dd>
+
+        	<dt>Custo</dt>
+
+		<dd>R$2,40</dd>
+
+	</dt>
+
+		
+
+	<a href="index.html"><h3><strong>Voltar</strong></h3></a>
+
+    </div>
+
+    
+
+</body>
+
+</html>
