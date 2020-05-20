@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html lang="port-br">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title> Lyne's Coffee </title>
+
+    
+
+</head>
+
+<body style="background-color: aquamarine; text-align: center;>
+
+    
+
+    <div id="container">
+
+        <header class="top-page"><h1>Lyne's Coffee</h1></header>
+
+	<hr/>
+
+	<h2><strong>Café Arábica com  leite</strong></h2>
+
+
+
+	<p><img src="../IMG/cafe arabico com leite.jfif" alt="Café Arabico" width="260px" height="187px"></p>
+
+
+
+	<hr/> 
+
+													
+
+	<dl style="text-align: center">
+
+
+
+		<dt>Descrição</dt>
+
+
+
+		<dd>café Arábica de alta qualidade, fino e requintado, com um leve toque de leite</dd>
+
+
+
+		<dd>Uma espécie de café diretamente da Arábia com grãos selecionados, ele possui um sabor robusto e aroma intenso!</dd>
+
+		<dt>Custo</dt>
+
+		<dd>R$2,50</dd>
+
+	</dl>
+
+				      
+
+	<a href="index.html"><h3><strong>Voltar</strong></h3></a>
+
+	
+
+    </div>
+
+    
+
+</body>
+
+</html>
