@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+<html lang="port-br">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title> Lyne's Coffee </title>
+
+    
+
+</head>
+
+<body style="background-color: aquamarine; text-align: center;>
+
+    
+
+    <div id="container">
+
+        
+
+        <header class="top-page"><h1>Lyne's Coffee</h1></header>
+
+				
+
+	<hr/>
+
+
+
+	<h2><strong>Mistura da Casa</strong></h2>
+
+
+
+	<p><img src="../IMG/mistura da casa.jfif" alt="Mistura da Casa" width="280px" height="187px"></p>
+
+
+
+	<hr/> 
+
+
+
+	<dl style="text-align: center">
+
+
+
+		<dt>Descrição</dt>
+
+
+
+		<dd>Café mistura da casa, leva seus mais selecionados grãos</dd>
+
+		<dd>Uma receita original da casa com uma combinação perfeita do seu melhor grão de café Colombiano, tostado de grão Francês e uma mistura gourmet de grão Queniano.</dd>
+
+		<dd>Essa mistura trás um sabor sem igual para admiradores de um café totalmente requintado e um aroma delirante!</dd>
+
+		<dt>Custo</dt>
+
+		<dd>R$5,50</dd>
+
+
+
+	</dl>
+
+
+
+	<a href="index.html"><h3><strong>Voltar</strong></h3></a>			
+
+	
+
+    </div>
+
+    
+
+</body>
+
+</html>
